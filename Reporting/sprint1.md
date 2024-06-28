@@ -1,90 +1,91 @@
-Jeudi 27/06/2024
+# Jeudi 27/06/2024
 
-Malak :
+## Malak :
 
-1- Qu'est-ce que tu as fait hier :
+1. Qu'est-ce que tu as fait hier :
 
-2- Qu'est-ce que tu vas faire aujourd'hui :
+2. Qu'est-ce que tu vas faire aujourd'hui :
 
-3- Est-ce que tu rencontre des difficultés :
-
-
-Sinda :
-
-1- Qu'est-ce que tu as fait hier :
-
-2- Qu'est-ce que tu vas faire aujourd'hui :
-
-3- Est-ce que tu rencontre des difficultés :
+3. Est-ce que tu rencontre des difficultés :
 
 
-Mayssa :
+## Sinda :
 
-1- Qu'est-ce que tu as fait hier :
+1. Qu'est-ce que tu as fait hier :
 
-2- Qu'est-ce que tu vas faire aujourd'hui :
+2. Qu'est-ce que tu vas faire aujourd'hui :
 
-3- Est-ce que tu rencontre des difficultés :
-
-Hadil :
-
-1- Qu'est-ce que tu as fait hier :
-
-2- Qu'est-ce que tu vas faire aujourd'hui :
-
-3- Est-ce que tu rencontre des difficultés :
+3. Est-ce que tu rencontre des difficultés :
 
 
-Amira :
+## Mayssa :
 
-1- Qu'est-ce que tu as fait hier :
+1. Qu'est-ce que tu as fait hier :
 
-2- Qu'est-ce que tu vas faire aujourd'hui :
+2. Qu'est-ce que tu vas faire aujourd'hui :
 
-3- Est-ce que tu rencontre des difficultés :
+3. Est-ce que tu rencontre des difficultés :
 
-Vendre 27/06/2024
+## Hadil :
 
-Malak :
+1. Qu'est-ce que tu as fait hier :
 
-1- Qu'est-ce que tu as fait hier :
+2. Qu'est-ce que tu vas faire aujourd'hui :
 
-2- Qu'est-ce que tu vas faire aujourd'hui :
-
-3- Est-ce que tu rencontre des difficultés :
+3. Est-ce que tu rencontre des difficultés :
 
 
-Sinda :
+## Amira :
 
-1- Qu'est-ce que tu as fait hier :
+1. Qu'est-ce que tu as fait hier :
 
-2- Qu'est-ce que tu vas faire aujourd'hui :
+2. Qu'est-ce que tu vas faire aujourd'hui :
 
-3- Est-ce que tu rencontre des difficultés :
-
-
-Mayssa :
-
-1- Qu'est-ce que tu as fait hier :
-
-2- Qu'est-ce que tu vas faire aujourd'hui :
-
-3- Est-ce que tu rencontre des difficultés :
-
-Hadil :
-
-1- Qu'est-ce que tu as fait hier :
-
-2- Qu'est-ce que tu vas faire aujourd'hui :
-
-3- Est-ce que tu rencontre des difficultés :
+3. Est-ce que tu rencontre des difficultés :
 
 
-Amira :
+# Vendredi 27/06/2024
 
-1- Qu'est-ce que tu as fait hier :
+## Malak :
 
-2- Qu'est-ce que tu vas faire aujourd'hui :
+1. Qu'est-ce que tu as fait hier :
 
-3- Est-ce que tu rencontre des difficultés :
+2. Qu'est-ce que tu vas faire aujourd'hui :
+
+3. Est-ce que tu rencontre des difficultés :
+
+
+## Sinda :
+
+1. Qu'est-ce que tu as fait hier :
+
+2. Qu'est-ce que tu vas faire aujourd'hui :
+
+3. Est-ce que tu rencontre des difficultés :
+
+
+## Mayssa :
+
+1. Qu'est-ce que tu as fait hier :
+
+2. Qu'est-ce que tu vas faire aujourd'hui :
+
+3. Est-ce que tu rencontre des difficultés :
+
+## Hadil :
+
+1. Qu'est-ce que tu as fait hier :
+
+2. Qu'est-ce que tu vas faire aujourd'hui :
+
+3. Est-ce que tu rencontre des difficultés :
+
+
+## Amira :
+
+1. Qu'est-ce que tu as fait hier :
+
+2. Qu'est-ce que tu vas faire aujourd'hui :
+
+3. Est-ce que tu rencontre des difficultés :
 
